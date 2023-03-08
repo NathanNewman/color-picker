@@ -1,7 +1,7 @@
 {
   "name": "routed",
   "version": "0.1.0",
-  "homepage": "https://NathanNewman.github.io/react-router-patterns",
+  "homepage": "https://NathanNewman.github.io/color-picker",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
